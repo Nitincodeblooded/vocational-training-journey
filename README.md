@@ -41,7 +41,7 @@ Welcome to my day-wise documentation of my **Vocational Training in Full Stack W
 
 | Day | Date       | Topics Covered                        | Code Link                             | Live Demo                                                                 |
 |-----|------------|----------------------------------------|----------------------------------------|---------------------------------------------------------------------------|
-| 1   | July 3     | Basic HTML, Tags, Hello World Page     | [Code](./Day01/code/index.html)        | [Live](https://nitincodeblooded.github.io/vocational-training-journey/Day01/code/index.html) |
+| 1   | July 3     | Basic HTML, Tags, Hello World Page     | [Code](./Day01/code/index.html)        | [Live](https://1452.onecompiler.app/) |
 | 2   | July 4     | Coming soon...                        | _(To be added)_                        | _(To be added)_                                                            |
 
 > 📝 I update this table daily with my code and live deployed projects.
