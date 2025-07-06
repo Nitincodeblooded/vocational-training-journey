@@ -27,12 +27,22 @@ Welcome to my day-wise documentation of my **Vocational Training in Full Stack W
 
 ---
 
+## 🙋 About Me
+
+- 👨‍💻 **Name**: Nitin Manhar
+- 📍 **Location**: Bilaspur, Chhattisgarh
+- 🏫 **Institute**: GEC Bilaspur, Chhattisgarh
+- 🌐 **GitHub**: [github.com/Nitincodeblooded](https://github.com/Nitincodeblooded)
+- 💼 **LinkedIn**: [linkedin.com/in/nitin-manhar-6b17a9207](http://www.linkedin.com/in/nitin-manhar-6b17a9207)
+
+---
+
 ## 📅 My Day-Wise Journey
 
-| Day | Date       | Topics Covered               | Code Link               | Live Demo                             |
-|-----|------------|------------------------------|--------------------------|----------------------------------------|
-| 1   | July 6     | GitHub Repo Setup & Markdown | [Code](./Day01/code/)    | [Live](https://example.com/day1)       |
-| 2   | July 7     | Coming soon...               | _(To be added)_         | _(To be added)_                        |
+| Day | Date       | Topics Covered                        | Code Link                             | Live Demo                                                                 |
+|-----|------------|----------------------------------------|----------------------------------------|---------------------------------------------------------------------------|
+| 1   | July 3     | Basic HTML, Tags, Hello World Page     | [Code](./Day01/code/index.html)        | [Live](https://nitincodeblooded.github.io/vocational-training-journey/Day01/code/index.html) |
+| 2   | July 4     | Coming soon...                        | _(To be added)_                        | _(To be added)_                                                            |
 
 > 📝 I update this table daily with my code and live deployed projects.
 
@@ -40,22 +50,11 @@ Welcome to my day-wise documentation of my **Vocational Training in Full Stack W
 
 ## 📂 Project Structure
 
-vocational-training-journey/
-│
-├── README.md
-├── Day01/
-│ ├── log.md
-│ └── code/
-├── Day02/
-│ ├── log.md
-│ └── code/
-├── ...
-
 
 - Each `DayXX` folder contains:
-  - `log.md` → Daily learning log
+  - `README.md` → Daily learning log
   - `code/` → Source code and files
-  - Optional: `screenshots/` or other assets
+  - `screenshots/` or other assets
 
 ---
 
@@ -77,12 +76,6 @@ I use the following platforms to deploy my daily work:
 
 ---
 
-## 🔗 Connect With Me
-
-- [GitHub Profile](https://github.com/Nitincodeblooded)
-- [LinkedIn](http://www.linkedin.com/in/nitin-manhar-6b17a9207)
-
----
-
 Thanks for checking out my journey! ⭐️ this repo if you’d like to follow along.
+
 
