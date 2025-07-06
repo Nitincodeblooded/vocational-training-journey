@@ -14,7 +14,10 @@
 ## 📂 Project Files
 - `index.html`: My first HTML file
 
-## 🌐 Live Demo
-[Click to view](https://nitincodeblooded.github.io/vocational-training-journey/Day01/code/index.html)
+## 🌐 Live Demo & Deployment
+
+-Code was written and tested using [OneCompiler](https://onecompiler.com/html).  
+-🔗[Click to view](https://1452.onecompiler.app/)
+
 
 ---
