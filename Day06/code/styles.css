@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f0f2f5;
+  color: #333;
+}
+
+/* Hero section with background image */
+.hero {
+  background-image: url('https://picsum.photos/1200/400?grayscale');
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  position: relative;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.profile-card {
+  width: 300px;
+  margin: 30px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.profile-card img {
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.quote {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  font-style: italic;
+  background-color: #fffbe6;
+  border-left: 5px solid #f39c12;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
