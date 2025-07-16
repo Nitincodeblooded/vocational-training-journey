@@ -28,8 +28,8 @@ Today was all about **making websites visually structured and engaging** using t
 
 ## 🔗 Project Links
 
-- 📄 [Code – index.html](./code/index.html)
-- 🎨 [Styles – styles.css](./code/styles.css)
+- 📄 [Code – index.html](https://github.com/Nitincodeblooded/vocational-training-journey/blob/main/Day06/code/index.html)
+- 🎨 [Styles – styles.css](https://github.com/Nitincodeblooded/vocational-training-journey/blob/main/Day06/code/styles.css)
 - 🌐 **Live Demo**: [View Project](https://1315.onecompiler.app/) <!-- Replace with actual OneCompiler or Pages link -->
 
 ---
