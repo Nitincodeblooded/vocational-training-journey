@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f2f5;
+  margin: 0;
+  padding: 40px;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+}
+
+select {
+  padding: 8px;
+  margin: 15px 0;
+  width: 100%;
+  font-size: 16px;
+}
+
+.list {
+  margin-top: 20px;
+}
+
+.expense {
+  padding: 10px 15px;
+  border: 1px solid #ccc;
+  border-left: 6px solid #2980b9;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.expense .note {
+  font-style: italic;
+  color: #888;
+  font-size: 14px;
+}
+
+.high {
+  border-left-color: #e74c3c;
+}
+
+.total {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: right;
+}

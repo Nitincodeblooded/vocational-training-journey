@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>JS Functions & Events</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <div class="container">
+    <h1>🧮 Calculator</h1>
+    <input type="number" id="num1" placeholder="Enter first number" />
+    <input type="number" id="num2" placeholder="Enter second number" />
+    <div class="buttons">
+      <button onclick="calculate('+')">+</button>
+      <button onclick="calculate('-')">-</button>
+      <button onclick="calculate('*')">*</button>
+      <button onclick="calculate('/')">/</button>
+    </div>
+    <p id="calcResult"></p>
+
+    <h2>🎨 Theme Toggle</h2>
+    <button id="themeBtn">Change Theme</button>
+
+    <h2>✏️ Live Character Counter</h2>
+    <textarea id="message" rows="4" placeholder="Type something..."></textarea>
+    <p>Characters: <span id="charCount">0</span></p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
